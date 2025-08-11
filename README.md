@@ -1,5 +1,9 @@
 # 🏠 Arduino-Based Smart Home Automation  
-**Relay + Temperature Sensor (DHT11) + Motion Sensor (PIR)**
+**Temperature Sensor + Motion Sensor**
+
+
+**>> Circuit -> https://www.tinkercad.com/things/aLQOVzSp8TL-project?sharecode=V571CFCOatdUbi73MVoPims4TDm5B9DofgSmXNOEB7w**
+
 
 This project uses an **Arduino Uno** to control home appliances based on **temperature** and **motion detection**:
 - 🌡 If the temperature exceeds **30°C**, a **cooling fan** turns on automatically.
